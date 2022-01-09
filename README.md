@@ -32,5 +32,5 @@ Run Linux/Mac
 Run Windows
 
 ```bash
-  py ./main.py
+  py .\main.py
 ```
